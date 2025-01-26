@@ -2,10 +2,12 @@
 
 ## 目录介绍
 
+```
 ├─ packages
   ├─ editor: 基于 `Designable` + `Formily.js` 实现的页面可视化搭建设计器，使用 `rspack` 构建，并做了兼容Taro组件H5渲染处理
   ├─ mobile: Taro项目demo例子
   ├─ ui: 使用 `@nutui/nutui-react-taro` 组件库做的适配formily的组件
+```
 
 ## 预览地址
 
@@ -90,6 +92,7 @@ npm start
 
 ## 设计器目录详细介绍
 
+```
 ├─ editor
   ├─ src
     ├─ common 一些组件
@@ -107,3 +110,4 @@ npm start
     ├─ widgets 一些组件设计器界面组件
     ├─ app.tsx 设计器主界面
     ├─ index.tsx 入口
+```
